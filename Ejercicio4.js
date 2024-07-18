@@ -35,3 +35,5 @@ const mainCharacters = [
 ];
 
 findArrayIndex(mainCharacters, "Leia");
+
+// removeItem(mainCharacters, "Chewbacca");
